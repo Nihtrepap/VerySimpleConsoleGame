@@ -1,0 +1,7 @@
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe.config
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.pdb
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.csprojAssemblyReference.cache
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.csproj.CoreCompileInputs.cache
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.exe
+P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.pdb
