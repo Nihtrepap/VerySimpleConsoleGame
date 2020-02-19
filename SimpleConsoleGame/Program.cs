@@ -27,6 +27,9 @@ namespace SimpleConsoleGame
 
         static void Main(string[] args)
         {
+            Console.SetWindowSize(35, 20);
+            Console.SetBufferSize(35, 20);
+            Console.CursorVisible = false;
             GameEngine();
         }
         /// <summary>

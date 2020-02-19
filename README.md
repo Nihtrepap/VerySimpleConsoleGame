@@ -10,8 +10,6 @@ How to play:
 
 Use WASD to move around.
 
-You cant hold in the keys to play, you click them. So click fast.
-
 If you have to get on letter X you will loose points, so dont enter X unless needed.
 
 The walls are your friends. Dont seem to be able to go around? Use the walls, they teleport 
