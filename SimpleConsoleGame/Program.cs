@@ -60,9 +60,9 @@ namespace SimpleConsoleGame
             ConsoleKeyInfo cKey = new ConsoleKeyInfo();
             while (menu)
             {
-                timer.Start();
                 while (on)
                 {
+                timer.Start();
                     while (play)
                     {
                         Console.Clear();
