@@ -93,14 +93,21 @@ namespace SimpleConsoleGame
             else if (points < -50) life[0] = "  ";
         }
         static void RestartGame()
-        {
+        {           
             Console.WriteLine("[1] - play again\n[2] - exit");
-            userInput = Console.ReadLine();
+             userInput = Console.ReadLine();
             if (userInput == "1")
             {
                 on = true; play = true; points = 0;
             }
-            else if (userInput == "2") menu = false;
+            else if (userInput == "2") 
+            {
+                menu = false; 
+            }
+            else 
+            { 
+                Console.Clear(); Console.WriteLine("Only use 1 or 2"); RestartGame(); 
+            }          
         }
         static void GameOverGameWon()
         {
@@ -117,7 +124,7 @@ namespace SimpleConsoleGame
                 timer.Reset();
                 RestartGame();
             }
-            else if (points >= 50)
+            else if (points >= 10)
             {
                 timer.Stop();
                 on = false;

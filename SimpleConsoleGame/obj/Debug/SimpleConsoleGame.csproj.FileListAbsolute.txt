@@ -5,3 +5,9 @@ P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\
 P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.csproj.CoreCompileInputs.cache
 P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.exe
 P:\gitlab projekt\ConsoleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.pdb
+H:\git mappar\simpleGame\VerySimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe.config
+H:\git mappar\simpleGame\VerySimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe
+H:\git mappar\simpleGame\VerySimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.pdb
+H:\git mappar\simpleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.csprojAssemblyReference.cache
+H:\git mappar\simpleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.exe
+H:\git mappar\simpleGame\VerySimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.pdb
