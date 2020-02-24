@@ -124,7 +124,7 @@ namespace SimpleConsoleGame
                 timer.Reset();
                 RestartGame();
             }
-            else if (points >= 10)
+            else if (points >= 50)
             {
                 timer.Stop();
                 on = false;

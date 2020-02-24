@@ -1,5 +1,6 @@
 # VerySimpleConsoleGame
-Just wanted to make a simple console game
+Just wanted to make a simple console game.
+You need to get 50 points as fast as possible !
 
 You are the humble letter A and wants to save all your humble letter B friends.
 But be aware of all the not so humble X letters. They can spawn anywhere on B on A, yeah
